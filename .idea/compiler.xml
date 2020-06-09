@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="s82" />
+        <module name="s827" />
+        <module name="s826" />
+        <module name="s825" />
+        <module name="s823" />
+        <module name="s822" />
+        <module name="S824" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="s82" target="1.7" />
+      <module name="s821" target="1.7" />
+      <module name="s822" target="1.7" />
+      <module name="S822" target="1.7" />
+      <module name="s822 (1)" target="1.7" />
+      <module name="s823" target="1.7" />
+      <module name="S824" target="1.7" />
+      <module name="s825" target="1.7" />
+      <module name="s826" target="1.7" />
+      <module name="s827" target="1.7" />
+      <module name="s82javaweb01" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

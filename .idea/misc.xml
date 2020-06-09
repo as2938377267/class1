@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/s82" />
+    <file type="web" url="file://$PROJECT_DIR$/s821" />
+    <file type="web" url="file://$PROJECT_DIR$/s822" />
+    <file type="web" url="file://$PROJECT_DIR$/s823" />
+    <file type="web" url="file://$PROJECT_DIR$/S824" />
+    <file type="web" url="file://$PROJECT_DIR$/s825" />
+    <file type="web" url="file://$PROJECT_DIR$/s826" />
+    <file type="web" url="file://$PROJECT_DIR$/s827" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/s82/pom.xml" />
+        <option value="$PROJECT_DIR$/s822/pom.xml" />
+        <option value="$PROJECT_DIR$/s823/pom.xml" />
+        <option value="$PROJECT_DIR$/S824/pom.xml" />
+        <option value="$PROJECT_DIR$/s825/pom.xml" />
+        <option value="$PROJECT_DIR$/s826/pom.xml" />
+        <option value="$PROJECT_DIR$/s827/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/s821/S822/pom.xml" />
+        <option value="$PROJECT_DIR$/s82javaweb01/s82/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8.0_191" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
